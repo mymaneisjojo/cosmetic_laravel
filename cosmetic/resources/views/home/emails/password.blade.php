@@ -1,0 +1,1 @@
+<a href="{{route('customer.confirm')}}?token={{$token}}&email={{$email}}">Nhấp vào link để xác nhận </a>
